@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://alaybeyi.github.io/beautiful-jekyll"
-baseurl: "/beautiful-jekyll"
+url: "https://alaybeyi.net"
+#baseurl: "/beautiful-jekyll"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
