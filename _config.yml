@@ -11,7 +11,7 @@ description: A virtual proof that I'm awesome
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://alaybeyi.net"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -68,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "ibrahim@alaybeyi.net"
   facebook: deanattali
-  github: daattali
+  github: alaybey
   twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: ibrahimalaybeyi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
